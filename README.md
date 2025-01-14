@@ -4,16 +4,16 @@
 
 ## **=>Team members-**
 
-1. Chaitravi Chalke - chaitravi007@gmail.com
+1. Daanish ilahi - daanishsumkesula@gmail.com
+   
+2. Chaitravi Chalke - chaitravi007@gmail.com
 
-2. Ashutosh Gupta - ashutoshgupta1704@gmail.com
+3. Ashutosh Gupta - ashutoshgupta1704@gmail.com
 
-3. Ved Samant - vedsamant24@gmail.com
+4. Ved Samant - vedsamant24@gmail.com
 
-4. Ayam Dhotekar - ayamdhotekar@gmail.com
-
-5. Daanish ilahi - daanishsumkesula@gmail.com
-
+5. Ayam Dhotekar - ayamdhotekar@gmail.com
+ 
 ## **=>Mentors-**
 
 1. Yogesh Deshpande - yogesh1122554
