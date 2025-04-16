@@ -5,20 +5,6 @@
 ## **=>Team members-**
 
 1. Daanish ilahi - daanishsumkesula@gmail.com
-   
-2. Chaitravi Chalke - chaitravi007@gmail.com
-
-3. Ashutosh Gupta - ashutoshgupta1704@gmail.com
-
-4. Ved Samant - vedsamant24@gmail.com
-
-5. Ayam Dhotekar - ayamdhotekar@gmail.com
- 
-## **=>Mentors-**
-
-1. Yogesh Deshpande - yogesh1122554
-2. Palak Mantry - pal-16
-
 
 ## **=>Description**
 
@@ -35,7 +21,6 @@ In most of the cases we often waste our time in stating in queue just waiting fo
 * Get to know your colleugue(if working in same company but different department)
 
 
-## **=>[GitHub repo link](https://github.com/ashu-pixel/Same-location-same-cab)**
 
 ## **=>[Demo Video](https://drive.google.com/drive/folders/1gskYiCOjORkOESwn4YyHuAym87MjfFKz?usp=sharing)**
 ## **=>[APK File](https://drive.google.com/file/d/1ui-Fai41RLQeoxrtrnWaRNEa5IpR4Hsx/view?usp=sharing)**
